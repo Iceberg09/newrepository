@@ -1,2 +1,0 @@
-# newrepository
-Delete after use
